@@ -20,4 +20,4 @@ An example of an X-ray image being processed. (a) Original chest X-ray image. (b
 Example images used in this repository is a subset of dataset provided by the Japanese Society of Radiological Technology (JSRT) Database (https://pubmed.ncbi.nlm.nih.gov/10628457/). Images are open-access.
 
 ## Citation
-TBD
+Wang, Y., Guo, Y., Wang, Z., Yu, L., Yan, Y. and Gu, Z., 2024. Enhancing semantic segmentation in chest X-ray images through image preprocessing: ps-KDE for pixel-wise substitution by kernel density estimation. PloS one, 19(6), p.e0299623.
